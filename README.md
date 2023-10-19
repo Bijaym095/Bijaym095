@@ -10,7 +10,7 @@
 </div>
   
 <p align="center">
-  A self-taught developer passionately exploring the world of web development. 🌐✨
+  A self-taught developer exploring the world of web development. 🌐✨
 </p>
 
 - :seedling: I’m currently learning **Node.js & MongoDB**
